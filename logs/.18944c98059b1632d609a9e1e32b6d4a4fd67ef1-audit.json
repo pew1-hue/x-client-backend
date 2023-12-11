@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "logs\\.18944c98059b1632d609a9e1e32b6d4a4fd67ef1-audit.json",
+    "files": [
+        {
+            "date": 1701337041927,
+            "name": "logs\\system-2023-11-30.log",
+            "hash": "1218ac8aa64708d636b54ea53db464d132ed8bab350fd2f07d52ebe67b9844ef"
+        },
+        {
+            "date": 1701406880134,
+            "name": "logs\\system-2023-12-01.log",
+            "hash": "3fc91fc95405724d89999c1f85ea641ccaa707fa23ea4f421e8e210cbd240246"
+        },
+        {
+            "date": 1701498677280,
+            "name": "logs\\system-2023-12-02.log",
+            "hash": "81809fe973a6bc1bcdaf5e157be5f56f4a8649f009647feccd7692035d74ba63"
+        },
+        {
+            "date": 1701658730703,
+            "name": "logs\\system-2023-12-04.log",
+            "hash": "d9d2bd6eea50ee9e77e92453de1a4610b9ded751921752ca1345c695a1fbb9af"
+        },
+        {
+            "date": 1701751005307,
+            "name": "logs\\system-2023-12-05.log",
+            "hash": "83b9801a97820684c52a76efc23b5ccc589348c5c452629a9f6835e22cf5fff3"
+        },
+        {
+            "date": 1701834778068,
+            "name": "logs\\system-2023-12-06.log",
+            "hash": "a5154d04cb54a7f3e92e4c63c5b80388fa5efe24148d57bf721fbb910f209ada"
+        },
+        {
+            "date": 1701923655280,
+            "name": "logs\\system-2023-12-07.log",
+            "hash": "46ad36cd89f700f014d2b8be8b9454c6a2a0093abfc75e8dd956b4a391e4663c"
+        },
+        {
+            "date": 1702008549761,
+            "name": "logs\\system-2023-12-08.log",
+            "hash": "083fd065e361d4a0776e4e7cee4e8c2fe659a70a70493ba780d592fff3aad270"
+        },
+        {
+            "date": 1702093093516,
+            "name": "logs\\system-2023-12-09.log",
+            "hash": "d04f494fa5d652f77006be2eba39086277435f5774bd6bd5add8a7d22ec54ee9"
+        },
+        {
+            "date": 1702265715981,
+            "name": "logs\\system-2023-12-11.log",
+            "hash": "a1a33e81b773f92ce56fe08350d10e890016376bd0131a189a0b9443d0a89bc0"
+        }
+    ],
+    "hashType": "sha256"
+}

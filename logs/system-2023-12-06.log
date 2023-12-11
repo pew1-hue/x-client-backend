@@ -1,0 +1,40 @@
+{'dateTime':'2023-12-06 12:25:02','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:00:00','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:00:38','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:00:54','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:01:45','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:04:07','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:04:20','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:15:04','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:37:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:29:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-06 14:43:43','level':'error','message':'checkDuplicate exist error','stack':'Error: checkDuplicate exist error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:495:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 14:56:55','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-06 19:23:10','level':'error','message':'Database Connection Failed! Bad Config:  read ECONNRESET','stack':'Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)'}

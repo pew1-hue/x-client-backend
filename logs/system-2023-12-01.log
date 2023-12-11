@@ -1,0 +1,41 @@
+{'dateTime':'2023-12-01 16:02:44','level':'error','message':'checkDuplicate exist error','stack':'Error: checkDuplicate exist error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:431:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:390:13)'}
+{'dateTime':'2023-12-01 16:24:38','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:138:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:89:13)'}
+{'dateTime':'2023-12-01 19:12:32','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-01 19:19:48','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-01 19:24:38','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}

@@ -1,0 +1,2 @@
+{'dateTime':'2023-12-08 20:09:21','level':'error','message':'Database Connection Failed! Bad Config:  read ECONNRESET','stack':'Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)'}

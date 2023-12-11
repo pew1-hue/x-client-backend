@@ -1,0 +1,6 @@
+{'dateTime':'2023-12-05 19:50:40','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-05 19:51:44','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:46:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}

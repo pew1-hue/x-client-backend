@@ -1,0 +1,361 @@
+{'dateTime':'2023-12-02 14:45:56','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 14:46:25','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 14:46:56','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 14:47:02','level':'error','message':'authAndInfo error','stack':'Error: authAndInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 16:18:41','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 16:19:05','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 16:19:11','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 16:21:08','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 16:21:15','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:03:05','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:27:04','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:59:31
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:27:11','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:27:27','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:27:40','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:27:49','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:59:31
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:31:13','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:59:31
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:31:57','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:59:31
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:32:11','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:59:31
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:32:21','level':'error','message':'falser is not defined','stack':'ReferenceError: falser is not defined
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:102:51
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:38:43','level':'error','message':'Token authentication error','stack':'Error: Token authentication error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:82:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:38:56','level':'error','message':'Token authentication error','stack':'Error: Token authentication error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:82:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 17:39:50','level':'error','message':'Token authentication error','stack':'Error: Token authentication error
+    at file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:82:27
+    at attemptTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:391:19)
+    at ClientSession.withTransaction (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\mongodb\lib\sessions.js:305:16)
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:28:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)'}
+{'dateTime':'2023-12-02 21:19:09','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:19:19','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:19:34','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:19:44','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:19:54','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:04','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:14','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:24','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:35','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:45','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:20:55','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:06','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:16','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:27','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:38','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:48','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
+{'dateTime':'2023-12-02 21:21:59','level':'error','message':'Database Connection Failed! Bad Config:  connect ETIMEDOUT','stack':'Error: connect ETIMEDOUT
+    at Socket.<anonymous> (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\ioredis\built\Redis.js:170:41)
+    at Object.onceWrapper (node:events:628:28)
+    at Socket.emit (node:events:514:28)
+    at Socket._onTimeout (node:net:589:8)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)'}
