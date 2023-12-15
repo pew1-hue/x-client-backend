@@ -1,0 +1,190 @@
+{'dateTime':'2023-12-11 12:08:22','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:17:32','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:17:39','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:26:31','level':'error','message':'checkDuplicate exist error','stack':'Error: checkDuplicate exist error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:495:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:26:34','level':'error','message':'checkDuplicate exist error','stack':'Error: checkDuplicate exist error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:495:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:26:38','level':'error','message':'checkDuplicate exist error','stack':'Error: checkDuplicate exist error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:495:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:29:51','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 12:29:53','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 12:32:28','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:55:32','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:56:08','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 12:56:11','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 13:05:18','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-11 13:24:15','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:25:39','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:25:41','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:25:44','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:27:03','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:27:05','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:27:10','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:34:00','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:34:23','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:34:28','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:34:29','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 13:34:32','level':'error','message':'authAndGetInfo error','stack':'Error: authAndGetInfo error
+    at authAndGetInfo (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/libs/auth.js:36:27)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Pio\Desktop\X-Client-Backend\x-client-backend\node_modules\express\lib\router\index.js:47:12)'}
+{'dateTime':'2023-12-11 16:54:19','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}

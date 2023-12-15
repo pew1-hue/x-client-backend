@@ -263,9 +263,13 @@ const userController = {
                 })
 
                 res.json({
-                    _id: rLogin.data._id,
-                    id: rLogin.data.id,
-                    nick: rLogin.data.nick,
+                result: null,
+                messageTitle: {
+                    en: 'Login Successful'
+                },
+                message: {
+                    en: 'User login Sucess'
+                }
                 })
 
         } catch (error) {
@@ -333,6 +337,24 @@ const userController = {
                     }
                 }
             },
+            passwordWithdraw: {
+                value: req.body.passwordWithdraw,
+                rule: {
+                    required: true,
+                    range: [4, 50]
+                },
+                message: {
+                    required: {
+                        en: 'Please enter a password Withdraw.',
+                        ko: '비밀번호는 4~50자로 입력하세요.'
+                    },
+                    range: {
+                        en: 'Please enter a password between 4 and 50 characters.',
+                        ko: '비밀번호는 4~50자로 입력하세요.'
+                    }
+                }
+
+            },
             nick: {
                 value: req.body.nick ? req.body.nick.toString().toLowerCase() : req.body.nick,
                 rule: {
@@ -360,28 +382,34 @@ const userController = {
                     required: {
                         en: 'Please enter a cellphone number.',
                         ko: '휴대폰번호를 입력해주세요.'
+                    },
+                    range: {
+                        en: 'Please enter a cellphone number consist of 11 numbers.',
+                        ko: '11자리 숫자로 구성된 휴대폰 번호를 입력하세요.'
                     }
-                },
-                range: {
-                    en: 'Please enter a cellphone number consist of 11 numbers.',
-                    ko: '11자리 숫자로 구성된 휴대폰 번호를 입력하세요.'
                 }
+
             },
             bank: {
                 value: req.body.bank ? req.body.bank.toString().toLowerCase(): req.body.bank,
                 rule: {
                     required: true,
-                    range: [1, 20]
+                    range: [1, 20],
+                    pattern: /^[A-Za-z\s]*$/
                 },
                 message: {
                     required: {
                         en: 'Please enter a type of bank',
                         ko: '은행 유형을 입력하세요.'
+                    },
+                    range: {
+                        en: 'Please enter a type of bank between 1 and 20 characters.',
+                        ko: '은행종류를 1~20자 이내로 입력해주세요.'
+                    },
+                    pattern: {
+                        en: 'Please enter only letters for the type of bank.',
+                        ko: '은행 유형에는 글자만 입력해주세요.'
                     }
-                },
-                range: {
-                    en: 'Please enter a type of bank between 1 and 20 characters.',
-                    ko: '은행종류를 1~20자 이내로 입력해주세요.'
                 }
             },
             bankAccount: {
@@ -394,11 +422,11 @@ const userController = {
                     required: {
                         en: 'Please enter a bank account.',
                         ko: '은행계좌를 입력해주세요.'
+                    },
+                    range: {
+                        en: 'Please enter a bank account between 1 and 20 characters.',
+                        ko: '은행 계좌를 1~20자 이내로 입력하세요.'
                     }
-                },
-                range: {
-                    en: 'Please enter a bank account between 1 and 20 characters.',
-                    ko: '은행 계좌를 1~20자 이내로 입력하세요.'
                 }
             },
             bankHolder: {
@@ -411,11 +439,11 @@ const userController = {
                     required: {
                         en: 'Please enter a bank holder.',
                         ko: '은행주를 입력해주세요.'
+                    },
+                    range: {
+                        en: 'Please enter a bank holder betweem 1 and 20 characters',
+                        ko: '은행주를 1~20자 사이로 입력하세요.'
                     }
-                },
-                range: {
-                    en: 'Please enter a bank holder betweem 1 and 20 characters',
-                    ko: '은행주를 1~20자 사이로 입력하세요.'
                 }
             }
         }
@@ -518,6 +546,9 @@ const userController = {
                     crypto.createHash('sha512').update(v.password).digest('base64'),
                     // original password
                     v.password,
+                    //Encrypted passwordWithdraw
+                    crypto.createHash('sha512').update(v.passwordWithdraw).digest('base64'),
+                    v.passwordWithdraw,
                     v.nick,
                     v.cell,
                     v.bank,

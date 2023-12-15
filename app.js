@@ -16,7 +16,8 @@ app.set('trust proxy', true)
 // ### 미들웨어 사용 ###
 app.use(cors({
     // origin: ['https://icon-cjs.pages.dev']
-    origin: '*'
+    origin: '*',
+    exposedHeaders: ['x-access-token', 'x-access-dtoken']
 }))
 app.use(express.json({
     limit: '2mb'

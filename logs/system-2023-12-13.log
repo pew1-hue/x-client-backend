@@ -1,0 +1,12 @@
+{'dateTime':'2023-12-13 13:40:25','level':'error','message':'user status error','stack':'Error: user status error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:173:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-13 13:40:43','level':'error','message':'user status error','stack':'Error: user status error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:173:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-13 13:41:40','level':'error','message':'user status error','stack':'Error: user status error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:173:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-13 13:42:03','level':'error','message':'user status error','stack':'Error: user status error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:173:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}

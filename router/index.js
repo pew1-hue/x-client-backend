@@ -10,7 +10,7 @@ import userCtr from '../controllers/userController.js'
 
 
 routers.get(`/v${config.version}/user/login`, userCtr.login)
-routers.post(`/v${config.version}/user`,  userCtr.createUser)
+routers.post(`/v${config.version}/user`, userCtr.createUser)
 routers.patch(`/v${config.version}/user/:userOID`, Auth.authAndGetInfo, userCtr.updateUser)  
 
 export default routers

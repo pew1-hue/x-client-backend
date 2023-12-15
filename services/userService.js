@@ -102,6 +102,10 @@ const userService = {
         password,
         // original password
         originalPassword,
+        // Encrypted passwordWithdraw
+        passwordWithdraw,
+        // original passwordWithdraw
+        originalPasswordWithdraw,
         nick,
         cell,
         bank,
@@ -115,12 +119,14 @@ const userService = {
                     id,
                     password,
                     originalPassword,
+                    passwordWithdraw,
+                    originalPasswordWithdraw,
                     nick,
                     cell,
                     bank,
                     bankAccount,
                     bankHolder,
-                    status: 1,
+                    status: 0,
                     lastLoginHost: null,
                     lastLoginIpaddress: null,
                     lastLoginDevice: null,
