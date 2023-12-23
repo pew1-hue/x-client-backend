@@ -7,7 +7,7 @@ import config from './configs/index.js'
 import { DB } from './libs/db.js'
 import RDB from './libs/redisDB.js'
 
-// import checkBlockedUserIpaddress from './middlewares/checkBlockedUserIpaddress.js'
+import checkBlockedUserIpaddress from './middlewares/checkBlockedUserIpaddress.js'
 
 // ### express ###
 const app = express()
@@ -24,7 +24,7 @@ app.use(express.json({
 }))
 app.use(express.urlencoded({ extended: true }))
 app.use(mongoSanitize())
-// app.use(checkBlockedUserIpaddress)
+app.use(checkBlockedUserIpaddress)
 
 
 // ### 라우터 정의 ###

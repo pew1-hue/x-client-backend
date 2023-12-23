@@ -7,16 +7,16 @@ import etcService from '../services/etcService.js'
 const checkBlockedUserIpaddress = async (req, res, next) => {
     const ipaddress = Tools.ipaddress(req)
 
-    console.log('IP Address:', ip)
+    // console.log('IP Address:', ip)
     try {
         // check allow ipaddress
         // 차단 된 아이피 확인하기
 
         // Without transaction
-        const rCheckBlockedUserIpaddress = await etcService.checkBlockedUserIpaddress()
+        const rcheckBlockedUserIpaddress = await etcService.checkBlockedUserIpaddress()
 
-        if (rCheckBlockedUserIpaddress.error) {
-            throw new xError('check blocked ipaddress db error', {
+        if (rcheckBlockedUserIpaddress.error) {
+            throw new xError('check allow ipaddress db error', {
                 v: {},
                 errorRule: 'db',
                 statusCode: 500,
@@ -30,19 +30,22 @@ const checkBlockedUserIpaddress = async (req, res, next) => {
                     ko: '데이터 베이스 에러'
                 },
 
-                errorTextForLogs: rCheckBlockedUserIpaddress.error
+                errorTextForLogs: rcheckBlockedUserIpaddress.error
             })
         }
 
         let isAllowed = false
-        for(let range of rCheckBlockedUserIpaddress.data) {
+        for(let range of rcheckBlockedUserIpaddress.data) {
+            console.log(rcheckBlockedUserIpaddress.data)
+            console.log(ip.cidrSubnet(range.cidr))
+            console.log(ipaddress)
             if(ip.cidrSubnet(range.cidr).contains(ipaddress)) {
                 isAllowed = true
                 break
             }
         }
 
-        if (isAllowed === false) {
+        if (isAllowed) {
             throw new xError('Access denied error', {
                 v: {},
                 errorRule: 'Access denied',

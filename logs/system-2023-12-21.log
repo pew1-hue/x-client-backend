@@ -1,0 +1,6 @@
+{'dateTime':'2023-12-21 15:05:01','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:134:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-21 18:08:45','level':'error','message':'Tools.isEmpty is not a function','stack':'TypeError: Tools.isEmpty is not a function
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:546:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}

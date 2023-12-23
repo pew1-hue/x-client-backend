@@ -1,3 +1,4 @@
+
 import cloneDeep from 'lodash/cloneDeep.js'
 import mobileDetect from 'mobile-detect'
 
@@ -40,6 +41,7 @@ class Tools {
         const arrayNeedNumber = ['number', 'gte', 'lte', 'gt', 'lt', 'outputNumber']
         const arrayNeedBoolean = ['boolean']
         const arrayOutputString = ['outputString']
+        const arrayTrimUrl = ['trimUrl']
 
         for (let vv in v) {
             const rules = Object.keys(v[vv].rule)
@@ -60,6 +62,18 @@ class Tools {
                 }
             }
 
+            let needTrim = false
+            for (let i = 0; i < arrayTrimUrl.length; i++) {
+                //if value of rule is true then continue
+                if(v[vv].rule[arrayTrimUrl[i]]) {
+                    if(rules.indexOf(arrayTrimUrl[i]) > -1) {
+                        needTrim = true
+                        break
+                    }
+                }
+            }
+            
+        
             let outputString = false
             for (let i = 0; i < arrayOutputString.length; i++) {
                 if(rules.indexOf(arrayOutputString[i]) > -1) {
@@ -76,6 +90,9 @@ class Tools {
                 }
                 else if(needBoolean) {
                     v[vv] = JSON.parse(v[vv].value)
+                }
+                else if(needTrim){
+                    v[vv] = v[vv].value.replace(/(https?:\/\/)|(www\.)/g, '')
                 }
                 else {
                     v[vv] = v[vv].value

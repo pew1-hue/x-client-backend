@@ -1,0 +1,30 @@
+{'dateTime':'2023-12-22 12:26:49','level':'error','message':'user status error','stack':'Error: user status error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:174:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:36:09','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:48:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:36:36','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:48:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:36:58','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:48:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:38:18','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:49:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:40:30','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:49:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 14:48:23','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:49:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 17:37:02','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:49:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 17:37:35','level':'error','message':'Access denied error','stack':'Error: Access denied error
+    at checkBlockedUserIpaddress (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/middlewares/checkBlockedUserIpaddress.js:49:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-22 17:42:46','level':'error','message':'id or password does not match error','stack':'Error: id or password does not match error
+    at login (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:135:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}

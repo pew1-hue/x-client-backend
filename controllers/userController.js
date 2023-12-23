@@ -12,6 +12,7 @@ import xError from '../libs/xError.js'
 
 // services
 import userService from '../services/userService.js'
+import siteDomainService from '../services/siteDomainService.js'
 
 const userController = {
     // @GET /v1/user/login
@@ -395,7 +396,6 @@ const userController = {
                 rule: {
                     required: true,
                     range: [1, 20],
-                    pattern: /^[A-Za-z\s]*$/
                 },
                 message: {
                     required: {
@@ -406,10 +406,6 @@ const userController = {
                         en: 'Please enter a type of bank between 1 and 20 characters.',
                         ko: '은행종류를 1~20자 이내로 입력해주세요.'
                     },
-                    pattern: {
-                        en: 'Please enter only letters for the type of bank.',
-                        ko: '은행 유형에는 글자만 입력해주세요.'
-                    }
                 }
             },
             bankAccount: {
@@ -445,9 +441,16 @@ const userController = {
                         ko: '은행주를 1~20자 사이로 입력하세요.'
                     }
                 }
+            },
+            domain: {
+                value: req.body.domain,
+                rule: {
+                    trimUrl: true
+                }
             }
+            
         }
-
+        
         // validate start
         let validate = new Validate()
         let v = validate.validate(validateData)
@@ -538,6 +541,22 @@ const userController = {
                     })
                 }
 
+                const domain = req.headers.origin.replace(/(https?:\/\/)|(www\.)/g, '')
+                const result = await siteDomainService.getDomain(domain)
+                let siteOID = ''
+                if(result.data.length <= 0){
+                    v.statusCode = 400
+                    v.errorTitle = {
+                        en: `Create user Failed - ${v.statusCode}`,
+                        ko: `마스터 생성 실패 - ${v.statusCode}`
+                    }
+        
+                    res.status(v.statusCode).json(v)
+                    return
+                }else{
+                    siteOID = result.data[0].siteOID
+                }
+
                 // Create user
                 // 마스터 등록
                 const rCreateUser = await userService.createUser(
@@ -553,7 +572,9 @@ const userController = {
                     v.cell,
                     v.bank,
                     v.bankAccount,
-                    v.bankHolder
+                    v.bankHolder,
+                    siteOID,
+                    domain
                 )
 
                 if(rCreateUser.error) {

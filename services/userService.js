@@ -100,7 +100,7 @@ const userService = {
         id,
         // Encrypted password
         password,
-        // original password
+        // original password 
         originalPassword,
         // Encrypted passwordWithdraw
         passwordWithdraw,
@@ -110,11 +110,15 @@ const userService = {
         cell,
         bank,
         bankAccount,
-        bankHolder,) {
+        bankHolder,
+        siteOID,
+        domain
+        ) {
         return new Promise(async (resolve) => {
             const r = { error: null, data: null, count: 0 }
 
             try {
+                
                 const insertQuery = {
                     id,
                     password,
@@ -126,7 +130,12 @@ const userService = {
                     bank,
                     bankAccount,
                     bankHolder,
+                    siteOID,
+                    domain,
                     status: 0,
+                    level: 0,
+                    isAgent: false,
+                    isTest: true,
                     lastLoginHost: null,
                     lastLoginIpaddress: null,
                     lastLoginDevice: null,

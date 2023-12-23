@@ -1,0 +1,41 @@
+{'dateTime':'2023-12-19 14:35:30','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:560:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 14:41:06','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:01:48','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:11:55','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:14:12','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:20:47','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:27:22','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:45:07','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:46:47','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:566:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 15:54:53','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:565:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 16:00:00','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:565:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 16:01:47','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:565:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 16:04:02','level':'error','message':'createUser db error','stack':'Error: createUser db error
+    at createUser (file:///C:/Users/Pio/Desktop/X-Client-Backend/x-client-backend/controllers/userController.js:560:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'}
+{'dateTime':'2023-12-19 20:59:07','level':'error','message':'Database Connection Failed! Bad Config:  read ECONNRESET','stack':'Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)'}
